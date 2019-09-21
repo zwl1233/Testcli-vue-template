@@ -4,7 +4,6 @@
   </div>
 </template>
 <script>
-import Router from './router/index'
 export default {
     name: 'App',
 }
